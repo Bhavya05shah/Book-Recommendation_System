@@ -21,3 +21,6 @@ __pycache__/
 
 # Logs
 *.log
+
+# Personal Notes
+Changes.txt
